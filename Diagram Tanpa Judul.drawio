@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T17:12:49.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="M2HagxhIN85Falil1cCw" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T17:14:54.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="aRYqNzi5pCxu8MFM6S9q" version="21.3.4" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
-    <mxGraphModel dx="1348" dy="613" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1258" dy="508" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,8 +123,8 @@
         <mxCell id="Z6IPMhNPh_R6V51IVwI1-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z6IPMhNPh_R6V51IVwI1-37" target="Z6IPMhNPh_R6V51IVwI1-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z6IPMhNPh_R6V51IVwI1-37" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Hitung Categorical Cross Entropy Loss&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="230" y="910" width="120" height="40" as="geometry" />
+        <mxCell id="Z6IPMhNPh_R6V51IVwI1-37" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Hitung Akurasi dan Categorical Cross Entropy Loss&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="210" y="920" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z6IPMhNPh_R6V51IVwI1-40" value="Propagasi Mundur" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="230" y="980" width="120" height="40" as="geometry" />

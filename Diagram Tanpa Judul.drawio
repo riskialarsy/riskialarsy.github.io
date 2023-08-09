@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T16:40:26.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="iPNrF3e6vqN54ZRxvKh9" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T16:59:55.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SoQz2smWds_aHRmy3zpw" version="21.3.4" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
     <mxGraphModel dx="1258" dy="508" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,16 +19,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IdXI2zrkfBvDs6GvW4y7-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;K-Fold Cross&lt;br&gt;Validation&lt;/i&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="970" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="1190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7m37HU-JpjzB4hNOFp2D-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IdXI2zrkfBvDs6GvW4y7-42" target="K-xvkSlF35jEx8rKdwMI-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IdXI2zrkfBvDs6GvW4y7-42" value="&lt;font face=&quot;Times New Roman&quot;&gt;Hasil Model&lt;br&gt;Klasifikasi&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="1020" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="1260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K-xvkSlF35jEx8rKdwMI-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Selesai&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="340" y="1060" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="1340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z6IPMhNPh_R6V51IVwI1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7m37HU-JpjzB4hNOFp2D-1" target="Z6IPMhNPh_R6V51IVwI1-1">
           <mxGeometry relative="1" as="geometry" />
@@ -79,7 +79,7 @@
           <mxGeometry x="-10" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7m37HU-JpjzB4hNOFp2D-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;Model Klasifikasi&lt;br&gt;Status Desa&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="910" width="120" height="40" as="geometry" />
+          <mxGeometry x="230" y="990" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7m37HU-JpjzB4hNOFp2D-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7m37HU-JpjzB4hNOFp2D-28" target="7m37HU-JpjzB4hNOFp2D-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -90,32 +90,38 @@
         <mxCell id="Z6IPMhNPh_R6V51IVwI1-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z6IPMhNPh_R6V51IVwI1-1" target="Z6IPMhNPh_R6V51IVwI1-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z6IPMhNPh_R6V51IVwI1-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Menentukan Maksimum &lt;i&gt;Epoch&lt;/i&gt;, &lt;br&gt;&lt;i&gt;Learning Rate&lt;/i&gt;, dan &lt;i&gt;Batch Size&lt;/i&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="Z6IPMhNPh_R6V51IVwI1-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;Menentukan Maksimum &lt;span&gt;Epoch&lt;/span&gt;, &lt;br&gt;&lt;span&gt;Learning Rate&lt;/span&gt;, dan &lt;span&gt;Batch Size&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="210" y="500" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z6IPMhNPh_R6V51IVwI1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z6IPMhNPh_R6V51IVwI1-7" target="Z6IPMhNPh_R6V51IVwI1-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z6IPMhNPh_R6V51IVwI1-7" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;Epoch&amp;nbsp;&lt;/i&gt; &amp;lt;=&lt;/span&gt;&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Maksimum &lt;i&gt;Epoch&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="Z6IPMhNPh_R6V51IVwI1-7" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;span&gt;Epoch&amp;nbsp;&lt;/span&gt; &amp;lt;=&lt;/span&gt;&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Maksimum &lt;span&gt;Epoch&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fontStyle=2;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="220" y="650" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Z6IPMhNPh_R6V51IVwI1-13" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Epoch&amp;nbsp;&lt;/i&gt;:=&amp;nbsp;&lt;i&gt;Epoch+&lt;/i&gt;1&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="740" width="100" height="80" as="geometry" />
+          <mxGeometry x="510" y="710" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z6IPMhNPh_R6V51IVwI1-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z6IPMhNPh_R6V51IVwI1-16" target="Z6IPMhNPh_R6V51IVwI1-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z6IPMhNPh_R6V51IVwI1-16" value="Inisialisasi&amp;nbsp;&lt;span style=&quot;&quot;&gt;Epoch = 0&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="230" y="580" width="120" height="40" as="geometry" />
+        <mxCell id="Z6IPMhNPh_R6V51IVwI1-16" value="Inisialisasi&amp;nbsp;&lt;span style=&quot;font-size: 11px;&quot;&gt;Epoch = 0,&lt;br style=&quot;font-size: 11px;&quot;&gt;Inisialisasi Bobot dan Bias dengan Nilai Interval [-1,1]&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="220" y="580" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Z6IPMhNPh_R6V51IVwI1-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z6IPMhNPh_R6V51IVwI1-19" target="Z6IPMhNPh_R6V51IVwI1-20">
+        <mxCell id="Z6IPMhNPh_R6V51IVwI1-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z6IPMhNPh_R6V51IVwI1-19" target="Z6IPMhNPh_R6V51IVwI1-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z6IPMhNPh_R6V51IVwI1-19" value="Propagasi Maju" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="230" y="780" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z6IPMhNPh_R6V51IVwI1-20" value="&lt;i style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;Epoch&amp;nbsp;&lt;/i&gt;:=&amp;nbsp;&lt;i style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;Epoch+&lt;/i&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="230" y="840" width="120" height="40" as="geometry" />
+        <mxCell id="Z6IPMhNPh_R6V51IVwI1-20" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;Epoch&amp;nbsp;&lt;/span&gt;:=&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;Epoch+&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="230" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z6IPMhNPh_R6V51IVwI1-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z6IPMhNPh_R6V51IVwI1-37" target="Z6IPMhNPh_R6V51IVwI1-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z6IPMhNPh_R6V51IVwI1-37" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Hitung Categorical Cross Entropy Loss&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="230" y="850" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

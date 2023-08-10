@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T10:26:33.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bHvSWx5WOaSL-GYYuIf2" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T10:31:56.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7NTG7epLJiLBGnqf4_zu" version="21.6.7" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
-    <mxGraphModel dx="1783" dy="500" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="517" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -258,10 +258,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-80" value="&lt;font face=&quot;Times New Roman&quot;&gt;Hasil&lt;br&gt;Klasifikasi&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-255.09000000000003" y="1220" width="120" height="40" as="geometry" />
+          <mxGeometry x="-470" y="1133" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-81" value="&lt;font face=&quot;Times New Roman&quot;&gt;Selesai&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-255.09000000000003" y="1290" width="120" height="40" as="geometry" />
+          <mxGeometry x="-470" y="1203" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-83" target="rV1thAJR1Vzn2dTstKj4-111">
           <mxGeometry relative="1" as="geometry">
@@ -308,15 +308,6 @@
             <mxPoint x="-320.0899999999998" y="449.9999999999993" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-320" y="700" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-92" target="rV1thAJR1Vzn2dTstKj4-121">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-340" y="770" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-220" y="430" />
-              <mxPoint x="-220" y="767" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -402,88 +393,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-117" target="rV1thAJR1Vzn2dTstKj4-118">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-117" value="Propagasi Maju" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-470.09000000000003" y="1144" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-118" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Hitung Akurasi dan Categorical Cross Entropy Loss&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-490.09000000000003" y="1223" width="160" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-119" value="Simpan Bobot dan&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 10px;&quot;&gt;Bias Baru pada Model&amp;nbsp;&lt;/span&gt;ackpropagation Arsitektur 12-12-4 Terbaru" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="-728" y="1310" width="174" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-121" target="rV1thAJR1Vzn2dTstKj4-128">
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-121" target="rV1thAJR1Vzn2dTstKj4-136">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-121" value="Model Backpropagation Arsitektur 12-12-4&lt;br&gt;dari Epoch Terakhir" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="-470.09000000000003" y="747" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-118">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-410.09000000000003" y="920" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-490.09000000000003" y="1240" />
-              <mxPoint x="-510.09000000000003" y="1240" />
-              <mxPoint x="-510.09000000000003" y="920" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-124" target="rV1thAJR1Vzn2dTstKj4-138">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-124" value="Evaluasi Plot Akurasi dan Categorical Cross Entropy Loss dari Epoch Terakhir" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="-275.09000000000003" y="1050" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="rV1thAJR1Vzn2dTstKj4-117">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-410.06142857142856" y="1094" as="sourcePoint" />
-            <mxPoint x="-407.65" y="1131.56" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-126" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;Epoch&amp;nbsp;&lt;/span&gt;:=&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;Epoch+&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-470.09000000000003" y="1052" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-128" target="rV1thAJR1Vzn2dTstKj4-131">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-128" value="Inisialisasi&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;Epoch = 0&lt;/span&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-480.09000000000003" y="870" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-131" target="rV1thAJR1Vzn2dTstKj4-126">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-131" target="rV1thAJR1Vzn2dTstKj4-136">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-270.09000000000003" y="982" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-131" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;Epoch&amp;nbsp;&lt;/span&gt; &amp;lt;=&lt;/span&gt;&amp;nbsp;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;Maksimum &lt;span style=&quot;font-size: 9px;&quot;&gt;Epoch&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-467.09000000000003" y="937" width="114.55" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-132" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-440.09000000000003" y="1020" width="40" height="30" as="geometry" />
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-124" value="Evaluasi Plot Akurasi dan Categorical Cross Entropy Loss" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="963" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-133" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-550.09" y="740" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-134" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-338.09000000000003" y="959" width="50" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-136" target="rV1thAJR1Vzn2dTstKj4-124">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-200.09000000000003" y="1040" as="targetPoint" />
+            <mxPoint x="-415" y="953" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-136" value="Model dengan Akurasi&lt;br&gt;dan&amp;nbsp;&lt;span style=&quot;font-size: 10px;&quot;&gt;Categorical Cross &lt;br&gt;Entropy Loss Terbaik&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-280.09000000000003" y="957" width="170" height="50" as="geometry" />
+          <mxGeometry x="-495" y="870" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-138" target="rV1thAJR1Vzn2dTstKj4-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-138" value="Evalusi Model Terbaik dengan&lt;br&gt;&lt;i&gt;Confusion Matrix&lt;/i&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="-275.09000000000003" y="1140" width="160" height="50" as="geometry" />
+          <mxGeometry x="-490" y="1053" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

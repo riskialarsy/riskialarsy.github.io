@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T12:12:06.303Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="6N8QQjM0777Jy7780tT7" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T12:12:38.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="06Y17PuA7bspWgjQkgjO" version="21.6.7" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
-    <mxGraphModel dx="1783" dy="500" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1723" dy="469" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -430,19 +430,19 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-440" y="820" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-300" y="985" />
-              <mxPoint x="-300" y="820" />
+              <mxPoint x="-330" y="985" />
+              <mxPoint x="-330" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-148" value="Underfitting atau&lt;br&gt;Overfitting?" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-497.00000000000006" y="940" width="114.55" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-151" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1020" width="50" height="30" as="geometry" />
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-151" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-451" y="1024" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-152" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-370.00000000000006" y="960" width="40" height="30" as="geometry" />
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-152" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-378.00000000000006" y="960" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T13:52:12.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="N37UI5tWdv2eQUfUzzpX" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T13:52:32.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="uLqyKrz2HW1eMcGNgRQm" version="21.6.7" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
-    <mxGraphModel dx="1249" dy="221" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="152" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -665,7 +665,7 @@
           <mxGeometry x="-740" y="1810" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nqTlXvUuI939-elJm5sN-34" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-680" y="1732" width="33" height="33" as="geometry" />
+          <mxGeometry x="-680" y="1731" width="33" height="33" as="geometry" />
         </mxCell>
         <mxCell id="nqTlXvUuI939-elJm5sN-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=offPageConnector;rounded=0;size=0.25;" vertex="1" parent="nqTlXvUuI939-elJm5sN-34">
           <mxGeometry width="33" height="33" as="geometry" />
@@ -707,7 +707,7 @@
           <mxGeometry x="-586" y="1730" width="33" height="33" as="geometry" />
         </mxCell>
         <mxCell id="nqTlXvUuI939-elJm5sN-44" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;B&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-586" y="1734" width="30" height="30" as="geometry" />
+          <mxGeometry x="-585" y="1730" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

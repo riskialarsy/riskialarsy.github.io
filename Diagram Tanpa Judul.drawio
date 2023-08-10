@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T12:18:25.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="VGtMPfE0VUWpq23518kb" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T12:22:32.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="3OZOkZJePjhdjD7HuUiP" version="21.6.7" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
-    <mxGraphModel dx="1696" dy="455" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1671" dy="441" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,10 +240,8 @@
         <mxCell id="rV1thAJR1Vzn2dTstKj4-73" value="Evalusi Model Terbaik dengan&lt;br&gt;&lt;i&gt;Confusion Matrix&lt;/i&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="655" y="1160" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-77">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-530.09" y="100" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-77" target="rV1thAJR1Vzn2dTstKj4-85">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-77" value="&lt;font face=&quot;Times New Roman&quot;&gt;Mulai&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="-590.09" y="20" width="120" height="40" as="geometry" />
@@ -269,38 +267,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-83" value="&lt;font face=&quot;Times New Roman&quot;&gt;Data &lt;i&gt;Training&lt;/i&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-700.09" y="410" width="120" height="40" as="geometry" />
+          <mxGeometry x="-700.09" y="290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-85" target="rV1thAJR1Vzn2dTstKj4-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-85" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Input&lt;/i&gt; Data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-590.09" y="100" width="120" height="40" as="geometry" />
+          <mxGeometry x="-590.09" y="84" width="120" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-87" target="rV1thAJR1Vzn2dTstKj4-94">
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-87" target="rV1thAJR1Vzn2dTstKj4-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-87" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Statistik Deskriptif&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-590.09" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="-590.09" y="130" width="120" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-90" target="rV1thAJR1Vzn2dTstKj4-92">
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-161" target="rV1thAJR1Vzn2dTstKj4-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-530" y="380" />
-              <mxPoint x="-400" y="380" />
+              <mxPoint x="-530" y="260" />
+              <mxPoint x="-635" y="260" />
             </Array>
+            <mxPoint x="-530.1176470588234" y="350" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.543;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-90" target="rV1thAJR1Vzn2dTstKj4-83">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-530.09" y="380" />
-              <mxPoint x="-635.09" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-90" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Times New Roman&quot;&gt;Pembagian Data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-590.09" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-92">
           <mxGeometry relative="1" as="geometry">
@@ -312,13 +300,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-92" value="&lt;font face=&quot;Times New Roman&quot;&gt;Data &lt;i&gt;Testing&lt;/i&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="410" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-94" target="rV1thAJR1Vzn2dTstKj4-90">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-94" value="&lt;font style=&quot;font-size: 11px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Preprocessing&lt;/i&gt; Data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-590.09" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="-460" y="290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-96" target="rV1thAJR1Vzn2dTstKj4-101">
           <mxGeometry relative="1" as="geometry" />
@@ -359,7 +341,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-107" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Hitung Akurasi dan Categorical Cross Entropy Loss&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-720.09" y="1060" width="160" height="33" as="geometry" />
+          <mxGeometry x="-715.09" y="1060" width="150.09" height="33" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-109" target="rV1thAJR1Vzn2dTstKj4-119">
           <mxGeometry relative="1" as="geometry" />
@@ -371,7 +353,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-111" value="Model Backpropagation&lt;br&gt;Arsitektur 12-12-4" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="-720.09" y="480" width="160" height="50" as="geometry" />
+          <mxGeometry x="-720.09" y="500" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-112" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-674.09" y="820" width="40" height="30" as="geometry" />
@@ -380,7 +362,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-114" value="Simpan&amp;nbsp; Nilai Akurasi dan Categorical Cross Entropy Loss dari Setiap Epoch" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="-720.09" y="1150" width="160" height="40" as="geometry" />
+          <mxGeometry x="-715.09" y="1150" width="150.09" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-119">
           <mxGeometry relative="1" as="geometry">
@@ -443,6 +425,23 @@
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-152" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-378.00000000000006" y="1050" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-158" target="rV1thAJR1Vzn2dTstKj4-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-158" value="&lt;i style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;Preprocessing&lt;/i&gt;&amp;nbsp;Data" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="176" width="120" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-161" target="rV1thAJR1Vzn2dTstKj4-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-530" y="260" />
+              <mxPoint x="-400" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-161" value="Pembagian Data" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="220" width="120" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

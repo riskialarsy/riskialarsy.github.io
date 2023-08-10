@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T10:21:49.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="aIUny5Z0XpHBlzv6S-CU" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T10:26:33.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bHvSWx5WOaSL-GYYuIf2" version="21.6.7" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
-    <mxGraphModel dx="2610" dy="500" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="500" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -396,10 +396,9 @@
             <mxPoint x="-640.09" y="694" as="targetPoint" />
             <mxPoint x="-710.09" y="1280" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-840" y="1391" />
-              <mxPoint x="-840" y="1380" />
-              <mxPoint x="-890" y="1380" />
-              <mxPoint x="-890" y="694" />
+              <mxPoint x="-770" y="1331" />
+              <mxPoint x="-800" y="1330" />
+              <mxPoint x="-800" y="694" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -413,7 +412,7 @@
           <mxGeometry x="-490.09000000000003" y="1223" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-119" value="Simpan Bobot dan&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 10px;&quot;&gt;Bias Baru pada Model&amp;nbsp;&lt;/span&gt;ackpropagation Arsitektur 12-12-4 Terbaru" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="1340" width="174" height="41" as="geometry" />
+          <mxGeometry x="-728" y="1310" width="174" height="41" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-121" target="rV1thAJR1Vzn2dTstKj4-128">
           <mxGeometry relative="1" as="geometry" />

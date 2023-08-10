@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T08:43:41.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="GXI1Zu1g0Q5uo0h77QB4" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T09:29:48.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RHHwMl5wAoAZots3pAXM" version="21.6.7" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
     <mxGraphModel dx="1491" dy="640" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,8 +163,8 @@
             <mxPoint x="290" y="714" as="targetPoint" />
             <mxPoint x="220" y="1300" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="225" y="1355" />
-              <mxPoint x="160" y="1355" />
+              <mxPoint x="225" y="1339" />
+              <mxPoint x="160" y="1339" />
               <mxPoint x="160" y="714" />
             </Array>
           </mxGeometry>
@@ -185,7 +185,7 @@
           <mxGeometry x="440" y="1520" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-30" value="Simpan Bobot dan&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 10px;&quot;&gt;Bias Baru pada Model&amp;nbsp;&lt;/span&gt;ackpropagation Arsitektur 12-12-4 Terbaru" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="203" y="1319" width="174" height="71" as="geometry" />
+          <mxGeometry x="203" y="1319" width="174" height="41" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-36" target="rV1thAJR1Vzn2dTstKj4-49">
           <mxGeometry relative="1" as="geometry" />
@@ -229,13 +229,10 @@
           <mxGeometry x="380" y="760" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-63" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="950" width="50" height="30" as="geometry" />
+          <mxGeometry x="592" y="979" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-68" value="Model dengan Akurasi&lt;br&gt;dan&amp;nbsp;&lt;span style=&quot;font-size: 10px;&quot;&gt;Categorical Cross &lt;br&gt;Entropy Loss Terbaik&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="650" y="977" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-70" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="610" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T12:38:10.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="5knWA9Kr4p981nqYIz-D" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T12:39:57.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="JfJkY92ByBwpnNd_VXKJ" version="21.6.7" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
     <mxGraphModel dx="1510" dy="357" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -363,8 +363,8 @@
             <mxPoint x="-640" y="500" as="targetPoint" />
             <mxPoint x="-710.09" y="1280" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-760" y="1050" />
-              <mxPoint x="-760" y="500" />
+              <mxPoint x="-740" y="1050" />
+              <mxPoint x="-740" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -375,7 +375,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-121" value="Model Backpropagation Arsitektur 12-12-4&lt;br style=&quot;font-size: 10px;&quot;&gt;dari Epoch Terakhir" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-510.00000000000006" y="556" width="120" height="40" as="geometry" />
+          <mxGeometry x="-515" y="553" width="130" height="46" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;fontFamily=Times New Roman;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-124" target="rV1thAJR1Vzn2dTstKj4-148">
           <mxGeometry relative="1" as="geometry" />
@@ -402,8 +402,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-450" y="620" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-330" y="830" />
-              <mxPoint x="-330" y="620" />
+              <mxPoint x="-340" y="830" />
+              <mxPoint x="-340" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -417,7 +417,7 @@
           <mxGeometry x="-460" y="866" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-152" value="Ya" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-374.00000000000006" y="804" width="30" height="30" as="geometry" />
+          <mxGeometry x="-378.00000000000006" y="807" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;fontFamily=Times New Roman;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-158" target="rV1thAJR1Vzn2dTstKj4-161">
           <mxGeometry relative="1" as="geometry" />

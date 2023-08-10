@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T14:04:39.392Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Yh7HJ8FvdeXgDwf3wPLS" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T14:05:05.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bV6myDP7K1ZvkJTIFBL-" version="21.6.8" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
-    <mxGraphModel dx="1058" dy="121" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1510" dy="357" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -657,12 +657,6 @@
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-227" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Selesai&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=10;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-740" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="nqTlXvUuI939-elJm5sN-25" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;A&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-710" y="1849" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="nqTlXvUuI939-elJm5sN-29" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 10px;&quot;&gt;A&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-740" y="1810" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nqTlXvUuI939-elJm5sN-34" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-680" y="1731" width="33" height="33" as="geometry" />

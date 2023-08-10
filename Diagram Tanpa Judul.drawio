@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T04:10:10.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="luAcM2iFpv8f6WNPCNe3" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T04:17:04.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="D4LJ_YguZCAoq6VbnXo1" version="21.6.7" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
     <mxGraphModel dx="1354" dy="508" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
         <mxCell id="Z6IPMhNPh_R6V51IVwI1-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Z6IPMhNPh_R6V51IVwI1-52" target="Z6IPMhNPh_R6V51IVwI1-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z6IPMhNPh_R6V51IVwI1-52" value="Model Backpropagation" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=9;" parent="1" vertex="1">
+        <mxCell id="Z6IPMhNPh_R6V51IVwI1-52" value="Model Backpropagation&lt;br&gt;Arsitektur 12-12-4" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="210" y="500" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Z6IPMhNPh_R6V51IVwI1-53" value="Simpan bobot dan bias pada model backpropagation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
@@ -156,8 +156,8 @@
         <mxCell id="rV1thAJR1Vzn2dTstKj4-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-11" target="rV1thAJR1Vzn2dTstKj4-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-11" value="Simpan Bobot dan Bias pada Model Backpropagation" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="755" width="120" height="60" as="geometry" />
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-11" value="Simpan Bobot dan Bias pada Model Backpropagation Arsitektur 12-12-4" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="763" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-13" value="" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="890" width="120" height="40" as="geometry" />
@@ -175,8 +175,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="1050" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="110" y="1280" />
-              <mxPoint x="110" y="785" />
+              <mxPoint x="160" y="1280" />
+              <mxPoint x="160" y="785" />
             </Array>
           </mxGeometry>
         </mxCell>

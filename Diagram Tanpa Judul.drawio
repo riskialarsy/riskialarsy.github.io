@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T10:31:56.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="7NTG7epLJiLBGnqf4_zu" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T10:35:19.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="motcu-Vqo_dNd9i8Bpzp" version="21.6.7" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
-    <mxGraphModel dx="1816" dy="517" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="500" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -396,7 +396,7 @@
         <mxCell id="rV1thAJR1Vzn2dTstKj4-119" value="Simpan Bobot dan&lt;br style=&quot;border-color: var(--border-color); font-family: Helvetica; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 10px;&quot;&gt;Bias Baru pada Model&amp;nbsp;&lt;/span&gt;ackpropagation Arsitektur 12-12-4 Terbaru" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="-728" y="1310" width="174" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-121" target="rV1thAJR1Vzn2dTstKj4-136">
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-121" target="rV1thAJR1Vzn2dTstKj4-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-121" value="Model Backpropagation Arsitektur 12-12-4&lt;br&gt;dari Epoch Terakhir" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=8;" vertex="1" parent="1">
@@ -411,19 +411,17 @@
         <mxCell id="rV1thAJR1Vzn2dTstKj4-133" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-550.09" y="740" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-136" target="rV1thAJR1Vzn2dTstKj4-124">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-415" y="953" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-136" value="Model dengan Akurasi&lt;br&gt;dan&amp;nbsp;&lt;span style=&quot;font-size: 10px;&quot;&gt;Categorical Cross &lt;br&gt;Entropy Loss Terbaik&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-495" y="870" width="170" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-138" target="rV1thAJR1Vzn2dTstKj4-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-138" value="Evalusi Model Terbaik dengan&lt;br&gt;&lt;i&gt;Confusion Matrix&lt;/i&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="-490" y="1053" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-143" target="rV1thAJR1Vzn2dTstKj4-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-143" value="Menentukan Model dengan Akurasi&lt;br style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;dan&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;Categorical Cross&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Entropy Loss Terbaik&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="870" width="160" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

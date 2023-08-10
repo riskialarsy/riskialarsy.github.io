@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T11:45:26.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="yahBlzhlxmK5by8OJclb" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T11:52:48.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="T9-1p6xw_l_XapUz5-Si" version="21.6.7" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
     <mxGraphModel dx="1783" dy="500" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -405,7 +405,7 @@
         <mxCell id="rV1thAJR1Vzn2dTstKj4-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-124" target="rV1thAJR1Vzn2dTstKj4-138">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-124" value="Evaluasi Plot Akurasi dan Categorical Cross Entropy Loss" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-124" value="Evaluasi Model Terbaik dengan&lt;br&gt;&amp;nbsp;Plot Akurasi dan Categorical Cross Entropy Loss" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="-520" y="963" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-133" value="Tidak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -420,7 +420,7 @@
         <mxCell id="rV1thAJR1Vzn2dTstKj4-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-143" target="rV1thAJR1Vzn2dTstKj4-124">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-143" value="Menentukan Model dengan Akurasi&lt;br style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;dan&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;Categorical Cross&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Entropy Loss Terbaik&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-143" value="Menentukan Model Terbaik Berdasarkan Parameter yang Digunakan" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="-520" y="870" width="160" height="50" as="geometry" />
         </mxCell>
       </root>

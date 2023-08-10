@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T08:18:40.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="BGCeVOcgC9c4jXxUatZm" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-10T08:18:46.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="2ThGED09Va9SrrUuFjv4" version="21.6.7" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
     <mxGraphModel dx="1290" dy="446" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -176,13 +176,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-23" value="Propagasi Maju" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="461" y="1162" width="120" height="40" as="geometry" />
+          <mxGeometry x="460" y="1162" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rV1thAJR1Vzn2dTstKj4-24" target="rV1thAJR1Vzn2dTstKj4-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-24" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Hitung Akurasi dan Categorical Cross Entropy Loss&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="441" y="1250" width="160" height="40" as="geometry" />
+          <mxGeometry x="440" y="1250" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-27" value="Plot Akurasi dan Categorical Cross Entropy Loss&amp;nbsp;&lt;br&gt;dari Semua Epoch" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="434" y="1540" width="160" height="50" as="geometry" />
@@ -197,7 +197,7 @@
           <mxGeometry x="460" y="766" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-38" value="Simpan&amp;nbsp; Nilai Akurasi dan Categorical Cross Entropy Loss dari Setiap Epoch" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Times New Roman;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="441" y="1330" width="160" height="50" as="geometry" />
+          <mxGeometry x="440" y="1330" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="rV1thAJR1Vzn2dTstKj4-23">
           <mxGeometry relative="1" as="geometry">

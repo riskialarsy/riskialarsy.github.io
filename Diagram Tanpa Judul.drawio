@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T14:05:05.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bV6myDP7K1ZvkJTIFBL-" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-12T13:45:35.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="01aBpl35DkBEBX2cNx05" version="21.6.8" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
-    <mxGraphModel dx="1510" dy="357" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1816" dy="517" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -531,7 +531,7 @@
             <mxPoint x="-570" y="1710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-192" value="Inisialisasi&amp;nbsp;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Epoch&lt;/i&gt; = 0,&lt;br style=&quot;font-size: 10px;&quot;&gt;Inisialisasi Bobot dan Bias dengan Nilai Interval [-1,1]&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-192" value="Inisialisasi&amp;nbsp;&lt;i&gt;Epoch&lt;/i&gt; = 0,&lt;br style=&quot;font-size: 10px;&quot;&gt;Inisialisasi Bobot&amp;nbsp; dengan Nilai Interval [-1,1],&amp;nbsp;dan Bias = 0&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-640.09" y="1600" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;fontFamily=Times New Roman;" parent="1" source="rV1thAJR1Vzn2dTstKj4-194" target="rV1thAJR1Vzn2dTstKj4-223" edge="1">

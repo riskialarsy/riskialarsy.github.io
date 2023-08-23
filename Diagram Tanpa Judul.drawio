@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T12:00:18.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="RJtrAAfaA-3FmvfyxesS" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T12:02:35.128Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3Zpt1iV6dUeOl1zIxKV1" version="21.6.8" type="github">
   <diagram name="Halaman-1" id="IDPkt6IPQC_1jw6kws_v">
     <mxGraphModel dx="1401" dy="300" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -511,7 +511,7 @@
             <mxPoint x="-512.4500000000003" y="1873" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-190" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Epoch&lt;/i&gt;&amp;nbsp;&lt;/span&gt; &amp;lt;=&lt;/span&gt;&amp;nbsp;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Maksimum &lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Epoch&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fontStyle=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-190" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Epoch&lt;/i&gt;&amp;nbsp;&lt;/span&gt;&amp;nbsp; &amp;lt;=&lt;/span&gt;&amp;nbsp;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Maksimum &lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;Epoch&lt;/i&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;fontStyle=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-627" y="1830" width="114.55" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-192" value="Inisialisasi&amp;nbsp;&lt;i&gt;Epoch&lt;/i&gt; = 0,&lt;br style=&quot;font-size: 10px;&quot;&gt;Inisialisasi Bobot&amp;nbsp; dengan Nilai Interval [-1,1],&amp;nbsp;dan Bias = 0&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=10;" parent="1" vertex="1">
@@ -520,7 +520,7 @@
         <mxCell id="rV1thAJR1Vzn2dTstKj4-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;fontFamily=Times New Roman;" parent="1" source="rV1thAJR1Vzn2dTstKj4-194" target="rV1thAJR1Vzn2dTstKj4-223" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rV1thAJR1Vzn2dTstKj4-194" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;&lt;i&gt;Epoch&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;=&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;&lt;i&gt;Epoch&amp;nbsp; &amp;nbsp;&lt;/i&gt;+&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="rV1thAJR1Vzn2dTstKj4-194" value="&lt;span style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;&lt;i&gt;Epoch&lt;/i&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;=&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;&lt;i&gt;Epoch&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/i&gt;+&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="-629.09" y="1948" width="120" height="21" as="geometry" />
         </mxCell>
         <mxCell id="rV1thAJR1Vzn2dTstKj4-195" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;fontFamily=Times New Roman;" parent="1" source="rV1thAJR1Vzn2dTstKj4-196" target="rV1thAJR1Vzn2dTstKj4-203" edge="1">
@@ -689,7 +689,7 @@
         <mxCell id="RafzKsFRjakbUFUcXE_Y-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RafzKsFRjakbUFUcXE_Y-1" target="nqTlXvUuI939-elJm5sN-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RafzKsFRjakbUFUcXE_Y-1" value="&lt;i style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;Epoch&lt;/i&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;&amp;nbsp;= 0,&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;Bobot = [-1,1],&amp;nbsp;&lt;br&gt;dan Bias = 0&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="RafzKsFRjakbUFUcXE_Y-1" value="&lt;i style=&quot;border-color: var(--border-color); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;Epoch&lt;/i&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;&amp;nbsp; = 0,&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10px;&quot;&gt;Bobot = [-1,1],&amp;nbsp;&lt;br&gt;dan Bias = 0&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-631" y="1590" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RafzKsFRjakbUFUcXE_Y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RafzKsFRjakbUFUcXE_Y-5" target="RafzKsFRjakbUFUcXE_Y-6" edge="1">

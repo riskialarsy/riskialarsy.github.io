@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Statistik Mahasiswa</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Dashboard Statistik Mahasiswa</h1>
+        <div class="row">
+            <div class="column">
+                <div class="chart-container">
+                    <div id="pieChart"></div>
+                </div>
+                <div class="chart-container">
+                    <div id="barChart"></div>
+                </div>
+            </div>
+            <div class="column">
+                <div class="chart-container">
+                    <div id="lineChart"></div>
+                </div>
+                <div class="chart-container">
+                    <div id="areaChart"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+    <script src="main.js"></script>
+    <script src="pieChart.js"></script>
+    <script src="barChart.js"></script>
+    <script src="lineChart.js"></script>
+    <script src="areaChart.js"></script>
+</body>
+</html>
